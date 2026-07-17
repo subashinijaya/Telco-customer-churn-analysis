@@ -56,6 +56,11 @@ jupyter notebook telco_churn_analysis.ipynb
 - Address class imbalance (SMOTE / class weights) to improve churn-class recall
 - Test gradient boosting models (XGBoost, LightGBM)
 - Deploy churn probability scoring for CRM integration
+## Visualisations
+
+![Churn by Contract Type](screenshots/churn_by_contract.png)
+
+![Top Churn Drivers](screenshots/feature_importance.png)
 
 ## Author
 
